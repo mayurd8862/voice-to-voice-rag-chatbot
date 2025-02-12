@@ -1,0 +1,7 @@
+groq
+smallestai
+streamlit
+langchain_groq
+langchain
+streamlit_chat
+langchain_community
